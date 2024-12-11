@@ -12,8 +12,6 @@ A comprehensive collection of deep learning projects demonstrating the implement
   - [CrossFunctionalAPI.ipynb](#crossfunctionalapiipynb)
 - [Models](#models)
 - [Data](#data)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
