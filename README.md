@@ -38,7 +38,7 @@ DLProjectSamples/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DLProjectSamples.git
+   git clone https://github.com/masoumehkhaleghian/DLProjectSamples.git
    ```
 2. Navigate to the project directory:
    ```bash
